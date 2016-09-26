@@ -1,0 +1,8 @@
+-környezet leírása (jelenleg mit használ informatikai rendszerként)
+-cél
+-környezeti feltételek (törvényi szabályozások, fölöttes szerv szabályai)
+
+-megvalósítandó folymatok
+-követelmény lista 
+
+
